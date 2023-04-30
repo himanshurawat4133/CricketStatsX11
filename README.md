@@ -1,4 +1,4 @@
-                                                             **CricketStatsX11**
+                                                          **CricketStatsX11**
 
 Hello, All Data Enthusiast, this is a Data Analysis Project on making the best 11-player team from ICC Mens T20 Cricket World Cup, 2022 or I simply call that CricketStatsX11.
 
