@@ -22,4 +22,4 @@ To run the project download the (.pbix) file from folder CricketStatsX11 and run
 
 If needed, you can also download the (.csv) file from t20_csv_files folder.
 
-There is a ppt also that contains the screenshots of the dashboard.
+There is a pdf file also that contains the screenshots of the dashboard.
