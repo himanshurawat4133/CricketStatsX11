@@ -21,3 +21,5 @@ You can select your own best 11-player team by your analysis skill.
 To run the project download the (.pbix) file from folder CricketStatsX11 and run it on Power BI web or Power BI Desktop.
 
 If needed, you can also download the (.csv) file from t20_csv_files folder.
+
+There is a ppt also that contains the screenshots of the dashboard.
